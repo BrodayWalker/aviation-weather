@@ -6,13 +6,13 @@ U.S. Department of Transportation, Bureau of Transportation Statistics
 <br>
 All airport data was taken from this source.
 <br>
-`https://data-usdot.opendata.arcgis.com/datasets/airports?orderBy=OBJECTID&orderByAsc=false`
+[Data Source](https://data-usdot.opendata.arcgis.com/datasets/airports?orderBy=OBJECTID&orderByAsc=false)
 
 <br>
 NOAA Aviation Weather Center Text Data Server
 <br>
-`https://aviationweather.gov/dataserver`
+[Text Data Server](https://aviationweather.gov/dataserver)
 <br>
 METAR help page
 <br>
-`https://www.aviationweather.gov/help/webservice?page=metarjson`
+[METAR Help Page](https://www.aviationweather.gov/help/webservice?page=metarjson)
